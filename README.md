@@ -25,10 +25,10 @@ Dieses Tutorial beschreibt die Konfiguration nach der Installation des Open-Sour
 <h2>Konfigurationsschritte</h2>
 
 <p>
-<img src="https://imgur.com/a/iU714pb" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://github.com/Rajan-IT/Konfiguration-nach-der-Installation/blob/main/Adding_Users.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+Hier, habe ich mich als Administrator angemeldet und einen neuen IT-Support-Mitarbeiter Profil, auf den Name Max Mueller, hinzugefügt. Ich habe ihm auch eine Abteilung, Berechtigungen und alles zugewiesen, was er für seine Arbeit benötigt.
 </p>
 <br />
 
