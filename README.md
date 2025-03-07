@@ -41,9 +41,9 @@ Als Max Mueller habe ich einen neuen Kunden hinzugefügt, damit er ab sofort Tic
 <br />
 
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://github.com/Rajan-IT/Konfiguration-nach-der-Installation/blob/main/ticket_lukas.schneiderr.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+Das Ticket des neu hinzugefügten Kunden Lukas Schneider ist im System angekommen. Dies beweist, dass unser Ticketsystem einwandfrei funktioniert, wie es sollte.
 </p>
 <br />
