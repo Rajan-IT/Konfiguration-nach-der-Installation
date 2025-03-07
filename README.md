@@ -33,10 +33,10 @@ Hier, habe ich mich als Administrator angemeldet und einen neuen IT-Support-Mita
 <br />
 
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://github.com/Rajan-IT/Konfiguration-nach-der-Installation/blob/main/lukas.schneider.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+Als Max Mueller habe ich einen neuen Kunden hinzugefügt, damit er ab sofort Tickets an uns schreiben kann.
 </p>
 <br />
 
