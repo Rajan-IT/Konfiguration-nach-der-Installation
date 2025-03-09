@@ -33,7 +33,7 @@ Hier, habe ich mich als Administrator angemeldet und einen neuen IT-Support-Mita
 <br />
 
 <p>
-<img src="https://github.com/Rajan-IT/Konfiguration-nach-der-Installation/blob/main/lukas.schneider.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://github.com/Rajan-IT/Konfiguration-nach-der-Installation/blob/main/ticket_lukas.schneiderr.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
 Als Max Mueller habe ich einen neuen Kunden hinzugefügt, damit er ab sofort Tickets an uns schreiben kann.
